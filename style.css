@@ -1,11 +1,10 @@
 body {
     background-color: #24292e;
-    color: white;
-    text-align: center;
+    color: black;
 }
 
 input[type="search"] {
-    width: 500;
+    width: 700;
     height: 40;
     font-size: 16;
     border-radius: 20;
