@@ -6,11 +6,6 @@ input[type="search"] {
     border-radius: 20;
 }
 
-body {
-    font-family: Times New Roman;
-    background-color: #f6f8fa;
-}
-
 input, textarea {
     width: 300;
     padding: 8;
@@ -23,3 +18,7 @@ button {
     color: white;
     border: none;
 }
+
+H1 {font-size:40px;}
+H2 {font-size:30px;}
+p {font-size:14px;}
