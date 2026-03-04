@@ -1,32 +1,4 @@
-
-input[type="search"] {
-    width: 700;
-    height: 40;
-    font-size: 16;
-    border-radius: 20;
-}
-
-input, textarea {
-    width: 300;
-    padding: 8;
-    margin-top: 5;
-}
-
-button {
-    padding: 8 15;
-    background-color: #24292e;
-    color: white;
-    border: none;
-}
-
-H1 {
-    font-size:40 px;
-}
-
-H2 {
-    font-size:30 px;
-}
-
-p {
-    font-size:18 px;
-}
+Body {background-color:yellow;}
+H1 {font-size:36pt;}
+H2 {color:blue;}
+P {margin-left:50px;}
